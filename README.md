@@ -1,1 +1,3 @@
-# data-cleaning with MYSQL
+# Data-Cleaning
+
+Data Cleaning using MYSQL
