@@ -61,7 +61,6 @@ FROM duplicate_cte
 WHERE row_num > 1 ;
 
 -- these are the ones we want to delete where the row number is > 1 or 2or greater essentially
--- now you may want to write it like this:
 
 WITH delete_cte AS #same cte as duplicate_cte
 ( 
